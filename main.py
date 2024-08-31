@@ -1,5 +1,14 @@
 print("Hello World!")
 
-print("Hello World 2!")
+def add(a,b):
+    sum = a+b
+return sum
 
-print("Hi Yeasin!")
+
+
+a=10
+b=5
+
+sum1 = add(a,b)
+
+        print(sum1)
