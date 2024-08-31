@@ -1,1 +1,1 @@
-# understand-github-actions
+# Understand GitHub Actions
